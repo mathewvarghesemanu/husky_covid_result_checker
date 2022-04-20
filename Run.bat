@@ -1,0 +1,1 @@
+python Covid_check.py
